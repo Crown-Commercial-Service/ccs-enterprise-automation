@@ -3,7 +3,7 @@
   <groupId>org.ccs</groupId>
   <artifactId>CCS-Web-Master</artifactId>
   <versioning>
-    <release>1.0.1e</release>
+    <release>1.0.1f</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1a</version>
@@ -11,7 +11,8 @@
       <version>1.0.1c</version>
       <version>1.0.1d</version>
       <version>1.0.1e</version>
+      <version>1.0.1f</version>
     </versions>
-    <lastUpdated>20220714100319</lastUpdated>
+    <lastUpdated>20220714101704</lastUpdated>
   </versioning>
 </metadata>
