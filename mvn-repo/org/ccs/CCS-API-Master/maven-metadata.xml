@@ -3,7 +3,7 @@
   <groupId>org.ccs</groupId>
   <artifactId>CCS-API-Master</artifactId>
   <versioning>
-    <release>1.0.9.j</release>
+    <release>1.0.9.k</release>
     <versions>
       <version>1.0.6</version>
       <version>1.0.7</version>
@@ -19,7 +19,8 @@
       <version>1.0.9.h</version>
       <version>1.0.9.i</version>
       <version>1.0.9.j</version>
+      <version>1.0.9.k</version>
     </versions>
-    <lastUpdated>20221031100537</lastUpdated>
+    <lastUpdated>20221107132708</lastUpdated>
   </versioning>
 </metadata>
